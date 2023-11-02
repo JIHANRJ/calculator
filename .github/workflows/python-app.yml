@@ -37,4 +37,4 @@ jobs:
     - name: Test and Lint
       run: |
         test_calc.py
-        FCalc.py
+        
