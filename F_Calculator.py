@@ -2,7 +2,7 @@
 Module to define a simple calculator class.
 """
 
-class FCalc:  # Renamed to follow snake_case naming
+class F_Calculator:  # Renamed to follow snake_case naming
     """
     A simple calculator class.
     """
