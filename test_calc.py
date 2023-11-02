@@ -4,7 +4,7 @@ from F_Calculator import Calculator
 class CalculatorTest(unittest.TestCase):
 
     def setUp(self):
-        self.calc = Calculator()
+        self.calc = F_Calculator()
 
     def test_add(self):
         self.assertEqual(10, self.calc.add(5, 5), "The addition is wrong")
